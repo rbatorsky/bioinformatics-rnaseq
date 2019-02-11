@@ -1,2 +1,2 @@
 # bioinformatics-rnaseq
-tufts workshop
+test tufts workshop
